@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\bin\Debug\Slide5Problem.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\bin\Debug\Slide5Problem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\bin\Debug\Slide5Problem.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\obj\Debug\Slide5Problem.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\obj\Debug\Slide5Problem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide5Problem\Slide5Problem\obj\Debug\Slide5Problem.pdb
